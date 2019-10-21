@@ -15,13 +15,13 @@ C] Maven SureFile plugin:2.19.1
 Setup Instructions:
 1] Download and install Eclipse IDE for Java Developers from here
 2] Make sure Best Buy API is running on your machine.
-3] Clone this repo :
-https://github.com/SMK125/shonam-mulani.git
+3] Clone this repo : 
+git clone https://github.com/SMK125/shonam-mulani.git
 4] Import cloned repo in step 3 as Maven project in Eclipse
 :
 File->Import->Go to Maven -> Existing Maven Project 
 Click on Next
-Choose Task3 folder
+Choose shonam-mulani\Task3 folder.
 5] In import project ,right click on pom.xml & run as -> Maven build so that all the dependencies will be uploaded.
 Now ro run automation project ,right click on pom.xml & Run as -> Maven Test .All test suites will be executed.
 
