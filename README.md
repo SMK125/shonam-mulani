@@ -10,12 +10,12 @@ Test cases are divided into different pages of App and prioratized as per User I
 # Task 3:
 I have automated "**Best Buy API**" app with all possible scenarios for all endpoints provided with Valid as well as Invalid scenarios.
 All the assertions for each operation has been taken care.
-- IDE used : Eclipse IDE for JAVA developers(4.13.0)
-- Libraries Used for automation : Rest Assured - 4.1.1
-- Maven SureFile plugin:2.19.1
-- TestNG:7.0.0
+- **IDE used** : Eclipse IDE for JAVA developers(4.13.0)
+- **Libraries Used for automation** : Rest Assured - 4.1.1
+- **Maven SureFile plugin** : 2.19.1
+- **TestNG** : 7.0.0
 
-## Setup Instructions:
+## Setup Instructions For Task 3:
 
 1. Download and install Eclipse IDE for Java Developers from here
 2. Make sure Best Buy API is running on your machine.
@@ -23,9 +23,9 @@ All the assertions for each operation has been taken care.
 git clone https://github.com/SMK125/shonam-mulani.git
 4. Import cloned repo in step 3 as Maven project in Eclipse
 :
-File->Import->Go to Maven -> Existing Maven Project 
+File->Import->Go to Maven -> Existing Maven Projects
 Click on Next
-Choose shonam-mulani\Task3 folder.
+Choose shonam-mulani\Task3 folder. And Click on Finish.
 5. In import project ,right click on pom.xml & run as -> Maven build so that all the dependencies will be uploaded.
 Now to run automation project ,right click on pom.xml & Run as -> Maven Test .All test suites will be executed.
 Automation TestNG report can be seen from target -> surefire-reports->index.html
