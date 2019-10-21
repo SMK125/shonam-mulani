@@ -21,11 +21,12 @@ All the assertions for each operation has been taken care.
 2. Make sure Best Buy API is running on your machine.
 3. Clone this repo : 
 git clone https://github.com/SMK125/shonam-mulani.git
-4. Import cloned repo in step 3 as Maven project in Eclipse
-:
+4. Import cloned repo in step 3 as Maven project in Eclipse:
+
 File->Import->Go to Maven -> Existing Maven Projects
 Click on Next
 Choose shonam-mulani\Task3 folder. And Click on Finish.
+
 5. In import project ,right click on pom.xml & run as -> Maven build so that all the dependencies will be uploaded.
 Now to run automation project ,right click on pom.xml & Run as -> Maven Test .All test suites will be executed.
 Automation TestNG report can be seen from target -> surefire-reports->index.html
