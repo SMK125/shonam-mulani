@@ -4,16 +4,16 @@ Task 1 folder contains the Test Suite for Monefy Android Application in Microsof
 
 I have created test plan with Test Suite ID,Name,Description,Test Case ID,Test Case,Expected Results,Automation Required & Status(Pass/Run) sections.
 Test cases are divided into different pages of App and prioratized as per User Interface & Functional levels.
-1. User Interface : It covers all test cases for navigation & valid/invalid value scenarios.
-2. Functional : It covers all the test cases for the functionality of app like if all the details are correctly updated as per user input.
+1. **User Interface** : It covers all test cases for navigation & valid/invalid value scenarios.
+2. **Functional** : It covers all the test cases for the functionality of app like if all the details are correctly updated as per user input.
 
 # Task 3:
-I have automated "Best Buy API" app with all possible scenarios for all endpoints provided with Valid as well as Invalid scenarios.
+I have automated "**Best Buy API**" app with all possible scenarios for all endpoints provided with Valid as well as Invalid scenarios.
 All the assertions for each operation has been taken care.
-A] IDE used : Eclipse IDE for JAVA developers(4.13.0)
-B] Libraries Used for automation : Rest Assured - 4.1.1
-C] Maven SureFile plugin:2.19.1
-D] TestNG:7.0.0
+- IDE used : Eclipse IDE for JAVA developers(4.13.0)
+- Libraries Used for automation : Rest Assured - 4.1.1
+- Maven SureFile plugin:2.19.1
+- TestNG:7.0.0
 
 ## Setup Instructions:
 
