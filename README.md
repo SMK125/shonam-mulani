@@ -23,8 +23,7 @@ All the assertions for each operation has been taken care.
 git clone https://github.com/SMK125/shonam-mulani.git
 4. Import cloned repo in step 3 as Maven project in Eclipse:
 
-  File->Import->Go to Maven -> Existing Maven Projects
-  Click on Next.
+  File->Import->Go to Maven -> Existing Maven Projects.Click on Next
   Choose shonam-mulani\Task3 folder. And Click on Finish.
 
 5. In import project ,right click on pom.xml & run as -> Maven build so that all the dependencies will be uploaded.
