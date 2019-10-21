@@ -1,9 +1,9 @@
 # shonam-mulani
 # Task 1 :
-Task 1 folder contains the Test Suite for Monefy Android Application in Microsoft Excel Format.
+Task 1 folder contains the Test Plan for Monefy Android Application in Microsoft Excel Format.
 
 I have created test plan with **Test Suite ID,Name,Description,Test Case ID,Test Case,Expected Results,Automation Required & Status(Pass/Run)** sections.
-Test cases are divided into different pages of App and prioratized as per User Interface & Functional levels.
+Test cases are divided into different pages of Application and prioratized as per User Interface & Functional levels.
 1. **User Interface** : It covers all test cases for navigation & valid/invalid value scenarios.
 2. **Functional** : It covers all the test cases for the functionality of app like if all the details are correctly updated as per user input.
 
