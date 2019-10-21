@@ -23,10 +23,5 @@ File->Import->Go to Maven -> Existing Maven Project
 Click on Next
 Choose shonam-mulani\Task3 folder.
 5] In import project ,right click on pom.xml & run as -> Maven build so that all the dependencies will be uploaded.
-Now ro run automation project ,right click on pom.xml & Run as -> Maven Test .All test suites will be executed.
-
-
-
-
-
-
+Now to run automation project ,right click on pom.xml & Run as -> Maven Test .All test suites will be executed.
+Automation TestNG report can be seen from target -> surefire-reports->index.html
