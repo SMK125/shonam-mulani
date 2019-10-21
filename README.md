@@ -17,7 +17,7 @@ All the assertions for each operation has been taken care.
 
 ## Setup Instructions For Task 3:
 
-1. Download and install Eclipse IDE for Java Developers from here
+1. Download and install Eclipse IDE for Java Developers(4.13.0)
 2. Make sure Best Buy API is running on your machine.
 3. Clone this repo : 
 git clone https://github.com/SMK125/shonam-mulani.git
